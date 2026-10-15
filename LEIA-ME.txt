@@ -1,0 +1,17 @@
+MINI SITE — DR. DOUGLAS MARTINS
+
+Imagem verificada dentro do ZIP: 2732 × 16000 pixels, formato PNG.
+A imagem original de alta resolução é preservada sem cortes nem recompressão.
+
+Efeitos:
+- Entrada progressiva por cinco faixas visuais, usando transparência suave para um efeito elegante.
+- Realce discreto nos botões ao passar o cursor ou navegar por teclado.
+- Respeita a preferência de movimento reduzido do dispositivo.
+
+Publicação:
+1. Extraia o ZIP.
+2. Envie index.html e a pasta assets para a hospedagem, mantendo a estrutura.
+3. Use index.html como página inicial.
+4. Substitua os href="#" pelos endereços reais dos botões antes de publicar.
+
+O design permanece como imagem original para manter composição, fotografias, tipografia, cores e espaçamentos exatamente como enviados. Como os textos fazem parte da imagem, não são selecionáveis como texto HTML.
